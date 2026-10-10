@@ -48,7 +48,7 @@ export default function About() {
             and Technology, Vadapalani, Chennai, currently maintaining a CGPA of 9.58.
           </p>
           <p style={{ fontSize: '1.05rem', lineHeight: 1.8, color: 'var(--text-secondary)', margin: 0 }}>
-            My focus is on practical software engineering — building web applications that solve
+            My focus is on practical software engineering building web applications that solve
             real problems. I enjoy working across the full stack, with particular interest in
             React-based front-ends and Python-powered back-end services.
           </p>
@@ -60,7 +60,7 @@ export default function About() {
           </p>
           <p style={{ fontSize: '1.05rem', lineHeight: 1.8, color: 'var(--text-secondary)', margin: 0 }}>
             Outside of building things, I'm continuously strengthening my foundations in
-            algorithms, data structures, and system design — because I believe strong fundamentals
+            algorithms, data structures, and system design because I believe strong fundamentals
             are what make developers effective over the long term.
           </p>
 
